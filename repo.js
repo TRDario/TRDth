@@ -1,6 +1,6 @@
 {
-    "id": "trdth",
-    "title": "TRDario",
+    "id": "TRDario",
+    "title": "TRDario's patches",
     "contact": "therealdario123@gmail.com",
     "servers": [
         "https://mirrors.thpatch.net/trdth/"
