@@ -6,7 +6,6 @@
         "https://mirrors.thpatch.net/TRDario/"
     ],
     "patches": {
-        "unvertical": "Flips vertical text to display horizontally.",
-        "ddmm": "Displays replay dates in DD/MM format."
+        "unvertical": "Flips vertical text to display horizontally."
     }
 }
