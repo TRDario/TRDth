@@ -1,5 +1,5 @@
 # TRDth
-A repository for Touhou patches made by TRDario.
+A repository for thcrap patches made by TRDario.
 
 
 
